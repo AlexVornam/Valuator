@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Valuator
+## Notes: Adds vendor sell value and (with aux-addon) auction value to item tooltips everywhere - bags, bank, loot, trade, mail, merchant, auction house, tradeskill, quest rewards - in one consistent coin-icon format instead of each source addon's own style, with per-item and total breakdowns for stacks. Requires ShaguTweaks.
+## Version: 1.0.0
+## RequiredDep: ShaguTweaks
+## OptionalDeps: aux-addon
+## LoadOnDemand: 0
+## Author: OddZealot
+Valuator.lua
